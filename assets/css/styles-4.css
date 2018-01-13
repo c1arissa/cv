@@ -60,7 +60,7 @@ p {
 }
 .sidebar-wrapper {
   background: #b176d6; /*#A15277;*/
-  position: absolute;
+  position: fixed;
   left: 0;
   width: 240px;
   height: 100%;
