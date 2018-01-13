@@ -4,6 +4,7 @@ url: 'http://webjeda.com'
 baseurl: '/cv' #change it according to your repository name
 
 
+
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
 #style: styles-3
@@ -13,9 +14,9 @@ style: styles-4
 
 
 #Profile information
-name: Alan Doe
+name: Clarissa Podell
 tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: orig.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: hello@webjeda.com
