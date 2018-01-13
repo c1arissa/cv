@@ -326,3 +326,13 @@ used for profile image
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 
+.header {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    left: 0;
+    width: 100%;
+    background-color: #9b4dca;
+    padding: 8px 0;
+} 
