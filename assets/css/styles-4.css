@@ -43,7 +43,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #642989; /*#3c1e2c;*/
+  color: #39174f; /*#642989; #3c1e2c;*/
 }
 a:focus {
   text-decoration: none;
