@@ -357,7 +357,7 @@ used for profile image
     z-index: 1;
     left: 0;
     width: 100%;
-    background-color: #fff;
+    /*background-color: #fff;*/
     padding: 14px 0; /* 14 or 15 */
 }
 
