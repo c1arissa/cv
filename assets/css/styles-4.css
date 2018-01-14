@@ -208,9 +208,14 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .degree {
-  font-size: 14px;
+/*article > header > h1 */
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-size: 112%;
+  font-weight: 700;
+  line-height: 150%;
   margin-top: 0;
   margin-bottom: 5px;
+  color: inherit;
 }
 .main-wrapper .meta {
   color: rgba(255, 255, 255, 0.6);
