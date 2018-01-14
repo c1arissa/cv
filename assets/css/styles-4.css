@@ -13,7 +13,7 @@ body {
   color: #545E6C;
   background: #ffffff; /*#f5f5f5;*/
   font-size: 14px;
-  padding: 60px;
+  padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /*border-top: 8px solid #9b4dca;
@@ -265,7 +265,7 @@ p {
   position: fixed;
   left:0;
   bottom: 0;
-  /*width: 100%;*/
+  width: 100%;
   background-color: #fff;
   color: #9b4dca; /*#f5f5f5;*/
   border-bottom: 8px solid #9b4dca;
@@ -338,7 +338,7 @@ used for profile image
     left: 0;
     width: 100%;
     background-color: #9b4dca;
-    padding: 15px 0;
+    padding: 16px 0;
 }
 
 .checked {
