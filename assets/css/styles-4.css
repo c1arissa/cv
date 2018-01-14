@@ -264,11 +264,12 @@ p {
   padding-top: 60px;
   /* v NEWWWW */
   position: fixed;
-  left:0;
+  /*left:0;
   bottom: 0;
-  width: 100%;
-  /*background-color: #9b4dca;*/
+  width: 100%;*/
+  background-color: #fff;
   color: #9b4dca; /*#f5f5f5;*/
+  border-bottom: 8px solid #9b4dca;
   /*text-align: center;
   font-size: 10pt;
   padding: 8px 0;*/
@@ -337,8 +338,8 @@ used for profile image
     z-index: 1;
     left: 0;
     width: 100%;
-    background-color: #fff;
-    padding: 12px 0;
+    background-color: #9b4dca;
+    padding: 13px 0;
 }
 
 .checked {
