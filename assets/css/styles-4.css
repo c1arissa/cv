@@ -203,6 +203,26 @@ p {
 .main-wrapper .section {
   margin-bottom: 60px;
 }
+/* 
+ * EDUCATION
+ */
+.main-wrapper .education-section .item {
+  margin-bottom: 30px;
+}
+.main-wrapper .degree {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.main-wrapper .meta {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+  margin-bottom: 0px;
+  margin-top: 0;
+}
+/* 
+ * EXPERIENCE
+ */
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
 }
