@@ -217,6 +217,10 @@ p {
   margin-bottom: 5px;
   color: #3F4650;
 }
+.main-wrapper .school {
+  margin-bottom: 10px;
+  color: #7d95b5; /*#97AAC3;*/
+}
 .main-wrapper .meta {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
