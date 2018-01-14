@@ -278,7 +278,7 @@ p {
   height: 12px;
   background: #bf819e;
 }
-.footer {
+.footer-fixed {
   /*padding: 30px;
   padding-top: 60px;
    v NEWWWW */
@@ -289,10 +289,13 @@ p {
   background-color: #fff;
   color: #9b4dca; /*#f5f5f5;*/
   border-bottom: 8px solid #9b4dca;
-  padding: 8px 0;
   /*text-align: center;
   font-size: 10pt;
   padding: 8px 0;*/
+}
+.footer {
+  padding: 30px;
+  padding-top: 60px;
 }
 .footer .copyright {
   line-height: 1.6;
