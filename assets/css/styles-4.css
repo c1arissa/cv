@@ -292,7 +292,7 @@ em {
 }
 .skillset .level-title {
   font-size: 16px;
-  margin-right: 10px;
+  margin-left: 10px;
   margin-top: 0;
   margin-bottom: 12px;
 }
@@ -305,7 +305,6 @@ em {
   background: #bf819e;
 }
 .footer-fixed {
-  padding-top: 60px;
   position: fixed;
   left:0;
   bottom: 0;
@@ -315,7 +314,7 @@ em {
 }
 .footer {
   padding: 30px;
-  padding-top: 60px;
+  padding-top: 40px;
 }
 .footer .copyright {
   line-height: 1.6;
