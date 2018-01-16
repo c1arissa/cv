@@ -17,11 +17,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-/*@media (max-width: 767px) {
+@media (max-width: 767px) {
     body{ 
-        padding: 0;
+        padding: 15px;
     }
-}*/
+}
 h1,
 h2,
 h3,
