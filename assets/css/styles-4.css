@@ -314,7 +314,7 @@ em {
 }
 .footer {
   padding: 30px;
-  padding-top: 30px;
+  padding-top: 32px;
 }
 .footer .copyright {
   line-height: 1.6;
@@ -396,6 +396,12 @@ used for profile image
 }
 
 .checked {
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.checked .fa {
     color: #9b4dca;
     font-size: 20px;
     letter-spacing: -2px;
