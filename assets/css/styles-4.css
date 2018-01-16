@@ -208,13 +208,12 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .degree {
-/*article > header > h1 */
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   color: #3F4650;
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 0;
-  font-weight: 700;
+  font-weight: 600;
 }
 .main-wrapper .school {
   margin-bottom: 10px;
@@ -255,6 +254,11 @@ em {
   right: 0;
   top: 0;
   color: #7d95b5; /*#97AAC3;*/
+}
+.main-wrapper .time .fa {
+  margin-right: 5px;
+  /*font-size: 18px;*/
+  vertical-align: middle;
 }
 .main-wrapper .company {
   margin-bottom: 10px;
