@@ -329,7 +329,8 @@ em {
     display: block;
     margin-bottom: 10px;
   }
-  .main-wrapper .school {
+  .main-wrapper .school, 
+  .company {
     margin-top: 5px;
     margin-bottom: 0;
   }
