@@ -286,6 +286,9 @@ em {
 .main-wrapper .projects-section .item {
   margin-bottom: 15px;
 }
+/*
+ ** SKILLS
+ */
 .skillset .item {
   margin-bottom: 15px;
   overflow: hidden;
@@ -304,6 +307,18 @@ em {
   height: 12px;
   background: #bf819e;
 }
+.skillset .title {
+  font-weight: bold;
+  font-size: 18px;
+}
+.checked {
+    color: #9b4dca;
+    font-size: 20px;
+    letter-spacing: -2px;
+}
+/*
+ ** FOOTER
+ */
 .footer-fixed {
   position: fixed;
   left:0;
@@ -314,7 +329,7 @@ em {
 }
 .footer {
   padding: 30px;
-  padding-top: 35px;
+  padding-top: 25px;
 }
 .footer .copyright {
   line-height: 1.6;
@@ -393,15 +408,4 @@ used for profile image
     border-top: 8px solid #9b4dca;
     background-color: #fff;
     padding: 14px 0; /* 14 or 15 */
-}
-
-.skillset .title {
-  font-weight: bold;
-  font-size: 18px;
-}
-
-.checked {
-    color: #9b4dca;
-    font-size: 20px;
-    letter-spacing: -2px;
 }
