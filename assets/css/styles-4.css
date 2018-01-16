@@ -19,7 +19,7 @@ body {
 }
 @media (max-width: 767px) {
     body{ 
-        padding: 15px;
+        padding: 30px 15px;
     }
 }
 h1,
