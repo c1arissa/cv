@@ -64,7 +64,8 @@ p {
   /*left: 0;overflow:auto;*/
   margin: 0 auto;
   width: 260px;
-  height: 80%;
+  height: auto;
+  overflow:hidden;
   /*min-height: 800px;*/
   color: #fff;
 }
@@ -164,7 +165,8 @@ p {
 }
 .main-wrapper {
   background: #fff;
-  padding: 60px;
+  /*padding: 60px;*/
+  padding: 30px 60px 60px 60px;
   padding-left: 300px;
 }
 .main-wrapper .section-title {
@@ -258,7 +260,7 @@ em {
 }
 .main-wrapper .time .fa {
   margin-right: 8px;
-  font-size: 14px;
+  font-size: 12px;
   vertical-align: text-top;
 }
 .main-wrapper .company {
