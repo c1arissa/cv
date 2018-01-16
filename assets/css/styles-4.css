@@ -413,10 +413,11 @@ table {
     border-collapse: collapse;
     width: 90%;
     margin: 0 auto;
+    margin-bottom: 30px;
 }
 
 th, td {
     padding: 8px 0px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
+    /*text-align: left;*/
+    border-bottom: 1px solid #e1e1e1; /*#ddd;*/
 }
