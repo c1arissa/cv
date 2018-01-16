@@ -213,7 +213,7 @@ p {
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 0;
-  font-weight: 600;
+  font-weight: 500;
 }
 .main-wrapper .school {
   margin-bottom: 10px;
@@ -257,12 +257,12 @@ em {
 }
 .main-wrapper .time .fa {
   margin-right: 5px;
-  /*font-size: 18px;*/
+  font-size: 16px;
   vertical-align: middle;
 }
 .main-wrapper .company {
   margin-bottom: 10px;
-  color: #97AAC3;
+  color: #7d95b5; /*#97AAC3;*/
 }
 .main-wrapper .project-title {
   font-size: 16px;
@@ -294,9 +294,7 @@ em {
   background: #bf819e;
 }
 .footer-fixed {
-  /*padding: 30px;
   padding-top: 60px;
-   v NEWWWW */
   position: fixed;
   left:0;
   bottom: 0;
