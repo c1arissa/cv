@@ -395,13 +395,13 @@ used for profile image
     padding: 14px 0; /* 14 or 15 */
 }
 
-.checked {
+.skillset .title {
   margin-left: 20px;
   font-weight: bold;
   font-size: 18px;
 }
 
-.checked .fa {
+.checked {
     color: #9b4dca;
     font-size: 20px;
     letter-spacing: -2px;
