@@ -40,7 +40,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  font-weight: 600;
+  font-weight: 500;
   color: #39174f; /*#642989; #3c1e2c;*/
 }
 a:focus {
@@ -233,7 +233,7 @@ em {
 }
 .main-wrapper .subtitle {
   color: #9b4dca;
-  font-size: 15px;
+  font-size: 16px;
   margin-top: 0;
   margin-bottom: 5px;
   font-weight: bold;
@@ -391,7 +391,7 @@ used for profile image
     left: 0;
     width: 100%;
     border-top: 8px solid #9b4dca;
-    /*background-color: #fff;*/
+    background-color: #fff;
     padding: 14px 0; /* 14 or 15 */
 }
 
