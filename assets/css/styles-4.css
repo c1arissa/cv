@@ -290,7 +290,8 @@ em {
   overflow: hidden;
 }
 .skillset .level-title {
-  font-size: 14px;
+  font-size: 16px;
+  margin-left: 10px;
   margin-top: 0;
   margin-bottom: 12px;
 }
