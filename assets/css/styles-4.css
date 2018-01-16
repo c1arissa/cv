@@ -216,7 +216,7 @@ p {
   font-weight: 500;
 }
 .main-wrapper .school {
-  margin-bottom: 0;
+  margin-bottom: 10px;
   color: #7d95b5; /*#97AAC3;*/
 }
 .main-wrapper .meta {
@@ -253,7 +253,6 @@ em {
   position: absolute;
   right: 0;
   top: 0;
-  margin-bottom: 10px;
   color: #7d95b5; /*#97AAC3;*/
 }
 .main-wrapper .time .fa {
@@ -328,7 +327,11 @@ em {
   .main-wrapper .time {
     position: static;
     display: block;
+    margin-bottom: 10px;
+  }
+  .main-wrapper .school {
     margin-top: 5px;
+    margin-bottom: 0;
   }
   .main-wrapper .upper-row {
     margin-bottom: 0;
