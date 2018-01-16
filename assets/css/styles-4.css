@@ -256,8 +256,8 @@ em {
   color: #7d95b5; /*#97AAC3;*/
 }
 .main-wrapper .time .fa {
-  margin-right: 5px;
-  font-size: inherit;
+  margin-right: 8px;
+  font-size: 12px;
   vertical-align: middle;
 }
 .main-wrapper .company {
