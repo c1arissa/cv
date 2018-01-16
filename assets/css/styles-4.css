@@ -210,12 +210,11 @@ p {
 .main-wrapper .degree {
 /*article > header > h1 */
   font-family: "Raleway", Helvetica, Arial, sans-serif;
-  font-size: 112%;
-  font-weight: 700;
-  line-height: 150%;
-  margin-top: 0;
-  margin-bottom: 1px;
   color: #3F4650;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 700;
 }
 .main-wrapper .school {
   margin-bottom: 10px;
