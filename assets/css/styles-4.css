@@ -64,7 +64,8 @@ p {
   /*left: 0;overflow:auto;*/
   margin: 0 auto;
   width: 260px;
-  height: auto;
+  height: 100%;
+  padding-bottom: 25px;
   overflow:hidden;
   /*min-height: 800px;*/
   color: #fff;
