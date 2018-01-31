@@ -68,7 +68,6 @@ p {
   overflow:hidden;
   /*min-height: 800px;*/
   /*color: #fff;*/
-  opacity: 1.0;
 }
 .sidebar-wrapper a {
   /*color: #fff;*/
@@ -169,6 +168,7 @@ p {
   /*padding: 60px;*/
   padding: 40px 60px 60px 60px;
   padding-left: 300px;
+  border-left: 2px solid #9b4dca;
   border-left: 2px solid #9b4dca;
 }
 .main-wrapper .section-title {
