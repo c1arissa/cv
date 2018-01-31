@@ -69,17 +69,17 @@ p {
   height: auto;
   overflow:hidden;
   /*min-height: 800px;*/
-  color: #fff;
+  /*color: #fff;*/
   opacity: 1.0;
 }
 .sidebar-wrapper a {
-  color: #fff;
+  /*color: #fff;*/
 }
 .sidebar-wrapper .profile-container {
   padding: 30px;
   /* background: rgba(0, 0, 0, 0.2);*/
   text-align: center;
-  color: #fff;
+  /*color: #fff;*/
 }
 .sidebar-wrapper .name {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
