@@ -61,6 +61,7 @@ p {
 .sidebar-wrapper {
   background: #b176d6; /*#A15277;*/
   position: fixed;
+  border-right: 2px solid #9b4dca;
   /*left: 0;overflow:auto;*/
   margin: 0 auto;
   width: 260px;
