@@ -66,7 +66,6 @@ p {
   width: 270px;
   height: auto;
   overflow:hidden;
-  margin-right:40px;
   border-right: 2px solid #9b4dca;
   /*min-height: 800px;*/
   /*color: #fff;*/
@@ -344,6 +343,7 @@ em {
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .sidebar-wrapper {
+    border: none;
     position: static;
     width: inherit;
   }
