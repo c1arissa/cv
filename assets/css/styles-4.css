@@ -110,7 +110,7 @@ p {
   font-size: 14px;
 }
 .sidebar-wrapper .container-block {
-  padding: 30px;
+  padding: 0px 30px;
 }
 .sidebar-wrapper .container-block-title {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
