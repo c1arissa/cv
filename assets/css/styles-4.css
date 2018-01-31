@@ -59,8 +59,8 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  /*background: #D14BE1 (pink) #CD7BFF (lavender) BA90D3 B96EE5 #b176d6; #A15277;*/
-  background: #EAC7FF; 
+  /*background: #D14BE1 (pink) #CD7BFF (lavender) EAC7FF (LIGHT) BA90D3 B96EE5 #b176d6; #A15277;*/
+  background: #C9ABDB; 
   position: fixed;
   /*left: 0;overflow:auto;*/
   margin: 0 auto;
