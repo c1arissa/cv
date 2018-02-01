@@ -62,6 +62,7 @@ p {
   /*background: #D14BE1 (pink) #CD7BFF (lavender) EAC7FF (LIGHT) D7A2DD (LIGHT2) BA90D3 B96EE5 #b176d6; #A15277;*/
   background: #D0B1E2; 
   position: sticky;
+  top: 0;
   /*left: 0;overflow:auto;*/
   margin: 0 auto;
   width: 260px;
@@ -170,7 +171,7 @@ p {
   padding: 60px;*/
   max-width: 700px;
   padding: 30px 60px 60px 60px;
-  right: 0;
+  position: relative;
   /*padding-left: 300px;*/
 }
 .main-wrapper .section-title {
