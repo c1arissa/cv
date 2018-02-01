@@ -50,8 +50,9 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  /*background: #b176d6; #A15277;*/
-  max-width: 960px;
+  /*background: #b176d6; #A15277;
+  max-width: 960px;*/
+  max-width: 600px;
   margin: 0 auto;
   position: relative;
   -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
