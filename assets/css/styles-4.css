@@ -60,7 +60,7 @@ p {
 }
 .sidebar-wrapper {
   /*background: #D14BE1 (pink) #CD7BFF (lavender) EAC7FF (LIGHT) D7A2DD (LIGHT2) BA90D3 B96EE5 #b176d6; #A15277;*/
-  background: #D0B1E2; 
+  background: #D7A2DD; 
   position: fixed;
   /*left: 0;overflow:auto;*/
   margin: 0 auto;
@@ -171,8 +171,8 @@ p {
   height: auto;
   padding: 30px 40px 60px 40px;
   position: absolute;
-  right: 0;
-  /*z-index: 1;
+  /*right: 0;
+  z-index: 1;
   padding-left: 300px;*/
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
