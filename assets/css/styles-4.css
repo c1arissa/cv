@@ -94,7 +94,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .profile {
-  margin-bottom: 0px;
+  margin-bottom: 15px;
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 10px;
@@ -111,7 +111,7 @@ p {
   font-size: 14px;
 }
 .sidebar-wrapper .container-block {
-  padding: 10px 30px 0px;
+  padding: 10px 30px 10px;
 }
 .sidebar-wrapper .container-block-title {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
@@ -330,7 +330,7 @@ em {
   left:0;
   bottom: 0;
   width: 100%;
-  padding: 10px;
+  padding: 8px;
   background: #f5f5f5;
   border-bottom: 8px solid #9b4dca;
   /*color: #9b4dca; #f5f5f5;*/
@@ -420,7 +420,7 @@ used for profile image
     width: 100%;
     border-top: 8px solid #9b4dca;
     background: #f5f5f5;
-    padding: 7px 0; /* 14 or 15 */
+    padding: 8px 0; /* 14 or 15 */
 }
 
 table {
