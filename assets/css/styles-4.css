@@ -64,7 +64,6 @@ p {
   position: fixed;
   /*left: 0;overflow:auto;*/
   margin: 0 auto;
-  margin-left: 50px;
   width: 260px;
   height: auto;
   overflow:hidden;
