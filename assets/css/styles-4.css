@@ -76,7 +76,7 @@ p {
 }
 .sidebar-wrapper .profile-container {
   padding: 15px 30px;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.1);
   text-align: center;
   color: #fff;
 }
@@ -172,6 +172,7 @@ p {
   padding: 30px 60px 60px 60px;
   position: absolute;
   right: 0;
+  z-index: 1;
   /*padding-left: 300px;*/
 }
 .main-wrapper .section-title {
