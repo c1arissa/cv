@@ -41,7 +41,7 @@ a {
 a:hover {
   text-decoration: underline;
   font-weight: 500;
-  color: #39174f; /*#642989; #3c1e2c;*/
+  color: #FD47C5; /*#642989; #3c1e2c;*/
 }
 a:focus {
   text-decoration: none;
@@ -68,7 +68,7 @@ p {
   height: 100%;
   overflow:hidden;
   /*min-height: 800px;*/
-  /*color: #fff;*/
+  color: #fff;
 }
 .sidebar-wrapper a {
   color: #fff;
@@ -108,10 +108,11 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .contact-list .email .fa {
+  margin-top: 15px;
   font-size: 14px;
 }
 .sidebar-wrapper .container-block {
-  padding: 10px 30px 10px;
+  padding: 15px 30px 15px;
 }
 .sidebar-wrapper .container-block-title {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
@@ -167,14 +168,14 @@ p {
 .main-wrapper {
   background: #fff;
   /*padding: 60px;*/
-  max-width: 680px;
+  max-width: 690px;
   height: auto;
   padding: 30px 40px 60px 40px;
   position: absolute;
   right: 0;
   /*z-index: 1;
   padding-left: 300px;*/
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1), 0px -2px 4px rgba(0, 0, 0, 0.1);
 }
 .main-wrapper .section-title {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
