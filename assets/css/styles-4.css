@@ -441,13 +441,13 @@ th, td {
 
 td.left {
     padding: 8px 0px;
-    float: left;
+    text-align: left;
     /*border-bottom: 1px solid #e1e1e1; /*#ddd;*/
 }
 
 td.right {
     padding: 8px 0px;
-    float: right;
+    text-align: right;
     font-weight: 700;
     /*border-bottom: 1px solid #e1e1e1; /*#ddd;*/
 }
