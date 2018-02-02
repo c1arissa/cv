@@ -438,9 +438,14 @@ th, td {
     border-bottom: 1px solid #e1e1e1; /*#ddd;*/
 }
 
-td.padding {
+td.left {
     padding: 8px 0px;
-    padding-right: 20px;
-    /*text-align: left;
-    border-bottom: 1px solid #e1e1e1; /*#ddd;*/
+    text-align: left;
+    /*border-bottom: 1px solid #e1e1e1; /*#ddd;*/
+}
+
+td.right {
+    padding: 8px 0px;
+    text-align: right;
+    /*border-bottom: 1px solid #e1e1e1; /*#ddd;*/
 }
